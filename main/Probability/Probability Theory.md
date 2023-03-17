@@ -1,0 +1,2 @@
+[[Random Process]]
+[[Bayes Theory]]

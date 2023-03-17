@@ -1,0 +1,13 @@
+{
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "zh-CN",
+    "en-GB",
+    "en-US",
+    "en-AU",
+    "en-CA",
+    "en-GB-oxendict"
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "920c4f58d9d4a774",
+    "type": "split",
+    "children": [
+      {
+        "id": "d981eeb076e47d29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5eae043a9876696",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structure/LinkedList/Merge and Division.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a2b5e512e256d14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LCS Series.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1c4af86083eb527",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thinking/Binary Tree Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3dfee37851f87fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thinking/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1312a67570573ca3",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe2574f8429c4b1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ef55a27fd607182",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "07d86197750b4ecf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "1792",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d24a241257628991",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 275.5
+  },
+  "right": {
+    "id": "f28357f08dbad5fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "93e998f8c3261155",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6327632c7e737d29",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "thinking/Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2c79f88f4f33aee2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "thinking/Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "79cbfbe879c9a834",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "41588efa58636752",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "thinking/Untitled.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f3dfee37851f87fe",
+  "lastOpenFiles": [
+    "thinking/Binary Tree Overview.md",
+    "thinking/Untitled.md",
+    "Pasted image 20230313200917.png",
+    "Pasted image 20230313200857.png",
+    "Pasted image 20230313200811.png",
+    "Pasted image 20230313200750.png",
+    "Pasted image 20230313200617.png",
+    "LCS Series.md",
+    "thinking",
+    "Data Structure/LinkedList/Recursion in Linkedlists.md",
+    "Pasted image 20230309233615.png",
+    "Pasted image 20230309233603.png",
+    "Pasted image 20230309233540.png",
+    "Pasted image 20230309233511.png",
+    "Pasted image 20230309233500.png",
+    "Data Structure/LinkedList/Merge and Division.md",
+    "Data Structure/LinkedList/Linked List Summary.md",
+    "Data Structure/LinkedList/Find Nodes.md",
+    "1129. Shortest Path with Alternating Colors.md",
+    "Data Structure/Tree/1028. Recover a Tree From Preorder Traversal.md",
+    "1027. Longest Arithmetic Subsequence.md",
+    "Data Structure/Tree/1026. Maximum Difference Between Node and Ancestor.md",
+    "Data Structure/Tree",
+    "Island Problems.md",
+    "Cycles in LinkedLists.md",
+    "daily/1487. 保证文件名唯一.md",
+    "UnionFind Template.md",
+    "Tree Height Triology.md",
+    "Data Structure/Arrays/Binary Search/2563. 统计公平数对的数目.md",
+    "offer/d3 String.md",
+    "Data Structure/Arrays/Binary Search/34. Find First and Last Position of Element in Sorted Array.md",
+    "Data Structure/Arrays/Binary Search/1011. Capacity To Ship Packages Within D Days.md",
+    "offer/d4 Searching.md",
+    "daily/1250. 检查「好数组」.md",
+    "daily/1124. 表现良好的最长时间段.md",
+    "Untitled.md"
+  ]
+}
