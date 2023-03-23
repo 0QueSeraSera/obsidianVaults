@@ -1,3 +1,4 @@
+[[root_linkedList]]
 # 206. 反转链表
 #classic #chanlleging 
 2 solutions, one is recursion, another is iteration. Iteration is relatively easier, but still easy to make mistakes. Recursion solution is rather abstract.

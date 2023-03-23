@@ -1,6 +1,7 @@
 {
   "accentColor": "",
-  "cssTheme": "Blue Topaz",
-  "theme": "moonstone",
-  "textFontFamily": "Bahnschrift"
+  "cssTheme": "Minimal",
+  "theme": "obsidian",
+  "textFontFamily": "Times New Roman",
+  "baseFontSize": 20
 }

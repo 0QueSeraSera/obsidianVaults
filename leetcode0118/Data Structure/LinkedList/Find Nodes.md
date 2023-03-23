@@ -1,3 +1,4 @@
+[[root_linkedList]]
 # 19. Remove Nth Node From End of List
 ![[Pasted image 20230211152120.png]]
 ![[Pasted image 20230211152153.png]]

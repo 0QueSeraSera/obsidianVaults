@@ -8,24 +8,31 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#DP",
+      "query": "file:root_Arrays",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 6084188
       }
     },
     {
-      "query": "tag:#tree",
+      "query": "file:root_linkedList",
       "color": {
         "a": 1,
-        "rgb": 14069084
+        "rgb": 6084269
       }
     },
     {
-      "query": "tag:#binary_search",
+      "query": "file:root_dual_pointer",
       "color": {
         "a": 1,
-        "rgb": 11392604
+        "rgb": 14048354
+      }
+    },
+    {
+      "query": "file:root_binary_search",
+      "color": {
+        "a": 1,
+        "rgb": 13555292
       }
     }
   ],
@@ -39,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5512858503338008,
+  "scale": 0.5512858503338023,
   "close": false
 }

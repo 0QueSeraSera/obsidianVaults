@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6ab2fa3587846980",
+        "id": "fe1fc24e80850d3d",
         "type": "tabs",
         "children": [
           {
-            "id": "25f28ebe93917794",
+            "id": "72e44debd64c2216",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MCS/Process Control/IMC.md",
+                "file": "MCS/MPC/1 Basic Formulation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MCS/Process Control/IMC.md",
+                "file": "MCS/MPC/1 Basic Formulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MCS/Process Control/IMC.md",
+                "file": "MCS/MPC/1 Basic Formulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MCS/Process Control/IMC.md"
+                "file": "MCS/MPC/1 Basic Formulation.md"
               }
             }
           }
@@ -146,42 +146,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "25f28ebe93917794",
+  "active": "72e44debd64c2216",
   "lastOpenFiles": [
-    "MCS/Process Control/Chap2.md",
-    "Pasted image 20230317115416.png",
-    "MCS/Process Control/Chap3.md",
-    "MCS/Process Control/Chap4.md",
+    "Pasted image 20230323105506.png",
+    "Pasted image 20230322220034.png",
+    "Pasted image 20230322215940.png",
+    "Pasted image 20230322215847.png",
+    "Pasted image 20230322213646.png",
+    "Pasted image 20230322213541.png",
+    "Pasted image 20230322212630.png",
+    "Pasted image 20230322212423.png",
+    "GAML/ML/Decision Tree.md",
+    "GAML/ML/Linear Descriminant Analysis.md",
+    "ROBO/Kinematics.md",
+    "ROBO/Link Coordination.md",
+    "ROBO/Rotations and Translations.md",
+    "ROBO/Trajectory Planning.md",
     "MCS/Process Control/Multivariate Control Process.md",
-    "MCS/Process Control/Untitled 1.md",
     "MCS/Process Control/DSM.md",
     "MCS/MPC/1 Basic Formulation.md",
-    "MCS/pictures/Pasted image 20230316214135.png",
-    "MCS/pictures/Pasted image 20230224162848.png",
-    "MCS/pictures/Pasted image 20230316223348.png",
-    "MCS/pictures/Pasted image 20230316214629.png",
-    "MCS/pictures/Pasted image 20230316220931.png",
-    "MCS/pictures/Pasted image 20230316220542.png",
-    "MCS/pictures/Pasted image 20230316220525.png",
-    "MCS/pictures/Pasted image 20230316220457.png",
-    "MCS/pictures/Pasted image 20230316220413.png",
-    "MPC.md",
+    "MCS/MPC/MPC.md",
+    "Feedforward Control.md",
+    "Other Stretagies.md",
+    "MCS/pictures/Pasted image 20230317115416.png",
+    "MCS/pictures/Pasted image 20230320114459.png",
+    "MCS/pictures/Pasted image 20230320113637.png",
+    "MCS/Process Control/IMC.md",
+    "MCS/Process Control/Chap2.md",
+    "MCS/Process Control/Chap3.md",
+    "MCS/Process Control/Chap4.md",
+    "MCS/Process Control/Untitled 1.md",
     "MCS/MPC/1 Basic Formulation",
     "MCS/MPC",
-    "GAML/ML/Chap 2.md",
     "MCS/Process Control",
     "GAML/GA/Chap3 Overview of EA.md",
     "GAML/ML",
     "ROBO/Inverse Kinematics.md",
     "GAML/GA",
-    "ROBO/Kinematics.md",
-    "ROBO/Rotations and Translations.md",
-    "ROBO/Trajectory Planning.md",
     "MCS/Process Control/Relative Gain Array.md",
-    "MCS/Process Control/IMC.md",
     "MCS/Process Control/Cascade Control.md",
-    "Feedforward Control.md",
-    "Other Stretagies.md",
     "MCS/Process Control/Decentralized Control.md",
     "Untitled.md",
     "Untitled 1.md"

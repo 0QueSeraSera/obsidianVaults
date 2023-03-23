@@ -1,8 +1,8 @@
-# Linear Descriminant Analysis (LDA)
+# Linear Discriminant Analysis (LDA)
 A classification tool
-Use a hyperplane to seperate samples
+Use a hyperplane to separate samples
 ## Overview
-The **descriminant fundtion**, denoted as g:
+The **discriminant function**, denoted as g:
 ```
 g(x) = trans(w) X x + w_0
 ```
