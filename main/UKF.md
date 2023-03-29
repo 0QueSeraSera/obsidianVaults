@@ -1,4 +1,4 @@
-[[Kalman Filter Special]]
+[[topic_Kalman Filter Special]]
 ****
 The Unscented Kalman Filter is a variant of KF for non-linear cases.
 Instead of random sampling, it deterministicly take samples to estimate the process's mean and covariance. The samples are _sigma points_

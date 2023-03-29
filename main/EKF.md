@@ -1,4 +1,4 @@
-[[Kalman Filter Special]]
+[[topic_Kalman Filter Special]]
 ****
 # Algorithm
 ## linearization

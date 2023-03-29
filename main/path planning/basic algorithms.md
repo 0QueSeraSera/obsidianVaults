@@ -1,4 +1,4 @@
-[[Sampling based path searching]]
+[[root_SBP]]
 ****
 Base method:
 [[RRT]]

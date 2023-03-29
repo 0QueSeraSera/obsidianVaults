@@ -1,2 +1,2 @@
-[[Sampling based path searching]]
+[[root_SBP]]
 ****

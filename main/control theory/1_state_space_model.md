@@ -1,4 +1,4 @@
-[[modern control basics]]
+[[topic_modern control basics]]
 # defination
 #state_space_model
 a state-space model of a system:

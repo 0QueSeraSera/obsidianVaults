@@ -1,4 +1,4 @@
-[[control bootcamp]]
+[[topic_control bootcamp]]
 ****
 **What are the best eigenvalues?**
 LQR

@@ -1,4 +1,4 @@
-[[Navigation Stack]]
+[[root_Navigation_Stack]]
 ****
 # Overview1
 https://arxiv.org/abs/1906.02650

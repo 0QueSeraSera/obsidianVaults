@@ -1,4 +1,4 @@
-[[Navigation Stack]]
+[[root_Navigation_Stack]]
 ****
 [[6 Non-linear Optimization]]
 [[7 Visual Odometry 1]]

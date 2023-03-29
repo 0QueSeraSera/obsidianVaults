@@ -1,4 +1,4 @@
-[[Visual_SLAM]]
+[[topic_Visual_SLAM]]
 ****
 # Recap
 1. VO only has "short memory". As time goes on, the error accumulates

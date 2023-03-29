@@ -1,4 +1,4 @@
-[[Visual_SLAM]]
+[[topic_Visual_SLAM]]
 ****
 2 types of optimization:
 - incremental: given a current estimate, update it with new observations

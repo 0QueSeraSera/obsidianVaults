@@ -1,4 +1,4 @@
-[[LaserSLAM]]
+[[topic_LaserSLAM]]
 ****
 # Precondition
 With known wheel odometry and laser scan data, we can:

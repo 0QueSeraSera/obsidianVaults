@@ -1,4 +1,4 @@
-[[LaserSLAM]]
+[[topic_LaserSLAM]]
 [[kinetics]]
 ****
 # motion modelling

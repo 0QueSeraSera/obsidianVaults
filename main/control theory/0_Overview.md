@@ -1,4 +1,4 @@
-[[control bootcamp]]
+[[topic_control bootcamp]]
 ****
 control category:
 passive -- active

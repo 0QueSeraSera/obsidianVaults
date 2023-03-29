@@ -13,10 +13,78 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Navigation/7 Visual Odometry 1.md",
+                "file": "ROS/Action.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "fd730c963b97dae5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROS/RRT Rviz  study/Main Function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d4bbcea0388931b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROS/RRT Rviz  study/Main Function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "486580b3f6eb8c44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROS/RRT Rviz  study/Main Function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1852c423282d6a73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROS/SLAM-ROS2 code.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7aba1120a6acf6b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROS/root_ros.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d69667b327686171",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -31,7 +99,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -60,7 +129,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#ex",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,12 +146,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 312.5
   },
   "right": {
     "id": "0ba4d316d073545d",
@@ -98,7 +166,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Navigation/7 Visual Odometry 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +182,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Navigation/7 Visual Odometry 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +203,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Navigation/7 Visual Odometry 1.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,44 +223,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b6589c562f5f4997",
+  "active": "d69667b327686171",
   "lastOpenFiles": [
-    "vision/dual_view_camera.md",
-    "vision/3D vision.md",
-    "vision/1_camera model.md",
-    "pictures/Pasted image 20230311154243.png",
-    "Pasted image 20230313100355.png",
-    "Pasted image 20230313100327.png",
-    "DL-Basics/Object Detection.md",
-    "YOLOs.md",
-    "classical framework.md",
-    "ROS/SLAM-ROS2 code.md",
-    "ROS/DSO.md",
-    "State Augmentation.md",
-    "Navigation/Techniques.md",
-    "Quaternions.md",
-    "pictures/Pasted image 20230312183505.png",
-    "pictures/Pasted image 20230312183352.png",
-    "pictures/Pasted image 20230312183304.png",
-    "pictures/Pasted image 20230312182026.png",
-    "pictures/Pasted image 20230312181932.png",
-    "pictures/Pasted image 20230312181910.png",
-    "pictures/Pasted image 20230312181824.png",
-    "Navigation/Navigation Stack.md",
-    "Navigation/Visual_SLAM.md",
-    "Visual Inertial Odometry.md",
-    "MSCKF.md",
-    "Particle Filter.md",
-    "Navigation/Kalman Filter Special.md",
-    "A robot localization example.md",
-    "Sensor Fusion/IMU.md",
-    "Sensor Fusion/GPS + IMU.md",
-    "EKF.md",
-    "UKF.md",
-    "control theory/scattered.md",
-    "Navigation/UnitA1 Motion Model.md",
-    "Cpp notes.md",
-    "genetic algorithm.md",
-    "Sensor Fusion"
+    "path planning/topic_modern control basics.md",
+    "path planning/root_control_theory.md",
+    "control theory/topic_control bootcamp.md",
+    "Navigation/topic_Kalman Filter Special.md",
+    "ROS/RRT Rviz  study/topic_RRT_RViz.md",
+    "Navigation/topic_LaserSLAM.md",
+    "Navigation/root_Navigation_Stack.md",
+    "Navigation/topic_Visual_SLAM.md",
+    "path planning/root_SBP.md",
+    "path planning/basic algorithms.md"
   ]
 }

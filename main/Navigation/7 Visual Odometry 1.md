@@ -1,4 +1,4 @@
-[[Visual_SLAM]]
+[[topic_Visual_SLAM]]
 ****
 #VO is divided into feature points method and optical flow method
 # Recap on camera model

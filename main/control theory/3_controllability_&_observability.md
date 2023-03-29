@@ -1,4 +1,4 @@
-[[modern control basics]]
+[[topic_modern control basics]]
 ****
 # Canonical Forms
 Controllability matrix `Wc`

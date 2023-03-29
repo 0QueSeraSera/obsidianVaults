@@ -1,4 +1,4 @@
-[[control theory]]
+[[root_control_theory]]
 #discrete_stability
 ![[Pasted image 20221105112305.png]]
 

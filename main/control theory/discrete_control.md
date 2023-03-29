@@ -1,4 +1,4 @@
-[[control theory]]
+[[root_control_theory]]
 ****
 [[Z-transform]]
 [[modeling digital system]]
