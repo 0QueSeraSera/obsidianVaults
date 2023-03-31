@@ -45,9 +45,13 @@ This combines the _past_ and the _future_:
 ![[Pasted image 20230316220525.png]]
 
 More compact version:
+**important!** `G X U_hat` here, `U_hat` consists of control efforts `delta{u}`, not input u!
 ![[Pasted image 20230316220542.png]]
 With 3 coefficients being:
 ![[Pasted image 20230322215847.png]]
+## dimension with control horizon and prediction horizon
+the prediction horizon: `N1, N2` and control horizon `Nu` affects the dimension of `Phi`, `Gamma` and `G`
+![[Pasted image 20230324172053.png]]
 
 ## Cost Function
 2 goals:
@@ -78,11 +82,31 @@ Relate the MPC controller with the formula before:
 The matching is shown here:
 ![[Pasted image 20230322212630.png]]
 
-## Many State Representation
+# Many State Representation
 An incremental input:
 ![[Pasted image 20230322215940.png]]
 compared with (1):
 ![[Pasted image 20230322220034.png]]
+
+This incremental input form use **control effort `delta{u(k)}`** as input
+`delta{u(k)} = u(k) - u(k - 1)`
+It has 3 forms based on state vector:
+1. ![[Pasted image 20230324150307.png]]
+2. ![[Pasted image 20230324150350.png]]
+3. ![[Pasted image 20230324150406.png]]
+They all form this:
+This shows the **similarity** with the traditional form
+![[Pasted image 20230324150448.png]]
+
+Denote `A, B, C` to match with the augmented state vector. This will lead to these results:
+Still divide into the past and the future, but no gamma and u(k-1) term
+![[Pasted image 20230324150727.png]]
+
+in the previous solution for the optimal control law, use A to encapsulate the past
+![[Pasted image 20230324183935.png]]
+![[Pasted image 20230324184456.png]]
+We can see that the `F = Phi X x(k) + gamma X u(k-1)` is placed with only `Phi X zeta(k)`
+
 
 
 

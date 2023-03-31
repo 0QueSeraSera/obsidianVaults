@@ -4,34 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "0baf6b916a7dbfef",
+        "id": "543622c7e95f437c",
         "type": "tabs",
         "children": [
           {
-            "id": "b6589c562f5f4997",
+            "id": "01cc01aa36ae7a12",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Navigation/7 Visual Odometry 1.md",
+                "file": "Probability/1_background.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e31e48508f1ebd60",
+            "id": "8e15a02d32352f34",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YOLOs.md",
+                "file": "general/linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d05f58a50b3b8eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "general/Python and Cpp.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Navigation/7 Visual Odometry 1.md",
+                "file": "general/Python and Cpp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Navigation/7 Visual Odometry 1.md",
+                "file": "general/Python and Cpp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Navigation/7 Visual Odometry 1.md"
+                "file": "general/Python and Cpp.md"
               }
             }
           }
@@ -159,8 +171,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b6589c562f5f4997",
+  "active": "4d05f58a50b3b8eb",
   "lastOpenFiles": [
+    "general/linux.md",
+    "general/Python and Cpp.md",
+    "Probability/1_background.md",
+    "general",
+    "path planning/Bayes Theory.md",
+    "Probability/Probability Theory.md",
+    "YOLOs.md",
+    "Navigation/7 Visual Odometry 1.md",
     "vision/dual_view_camera.md",
     "vision/3D vision.md",
     "vision/1_camera model.md",
@@ -168,7 +188,6 @@
     "Pasted image 20230313100355.png",
     "Pasted image 20230313100327.png",
     "DL-Basics/Object Detection.md",
-    "YOLOs.md",
     "classical framework.md",
     "ROS/SLAM-ROS2 code.md",
     "ROS/DSO.md",
@@ -191,12 +210,6 @@
     "A robot localization example.md",
     "Sensor Fusion/IMU.md",
     "Sensor Fusion/GPS + IMU.md",
-    "EKF.md",
-    "UKF.md",
-    "control theory/scattered.md",
-    "Navigation/UnitA1 Motion Model.md",
-    "Cpp notes.md",
-    "genetic algorithm.md",
     "Sensor Fusion"
   ]
 }

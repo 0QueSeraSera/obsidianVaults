@@ -25,6 +25,7 @@ Y = G_c* · G · R + (1 - G_c*·G)L
 `G_c*` is the controller
 ### step1 -- refactor
 Essentially about seperating **time delay** and **rhp zeros**
+`G~+` also satisfies: `G~+(s=0) = 1`
 ![[Pasted image 20230224155801.png]]
 ### step2 Derive Controller G_c*
 The controller is equal to LPF filtered inverse of `G~_`

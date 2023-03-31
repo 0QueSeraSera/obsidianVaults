@@ -26,6 +26,15 @@ the second is #posterior ,given observed x, the probability that the category is
 ![[Pasted image 20221120221224.png]]
 ![[Pasted image 20221120222300.png]]
 ## Bayes formula
+
+`review note on 2023.3.36`
+`x` is the observed data, `omega_j` is the class. we have observation data `x`, want to decide class based on observation. Thus, the desired probability is `P(omega_j|x)` 
+Use bayes formula, it is _proportional_ to `P(x|omega_j)` and `P(omega_j)`. These 2 are easy to acquire. 
+`P(x|omega_j)` is called **likelihood**, 
+`P(omega_j)` is **prior**, 
+and the desired `P(x|omega_j)` is **posterior**
+
+
 ![[Pasted image 20221120221501.png]]
 #posterior is what we want: 
 ==given observation data x, decide catogory omega==

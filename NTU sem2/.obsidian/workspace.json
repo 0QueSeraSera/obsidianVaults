@@ -11,15 +11,26 @@
             "id": "72e44debd64c2216",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "GAML/pictures/Pasted image 20230326215821.png"
+              }
+            }
+          },
+          {
+            "id": "ee65d4c8d1e300c5",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "MCS/MPC/1 Basic Formulation.md",
+                "file": "MCS/Process Control/IMC.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MCS/MPC/1 Basic Formulation.md",
+                "file": "MCS/Process Control/IMC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MCS/MPC/1 Basic Formulation.md",
+                "file": "MCS/Process Control/IMC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MCS/MPC/1 Basic Formulation.md"
+                "file": "MCS/Process Control/IMC.md"
               }
             }
           }
@@ -146,34 +157,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "72e44debd64c2216",
+  "active": "a290cb1d29bc82c3",
   "lastOpenFiles": [
-    "Pasted image 20230323105506.png",
-    "Pasted image 20230322220034.png",
-    "Pasted image 20230322215940.png",
-    "Pasted image 20230322215847.png",
-    "Pasted image 20230322213646.png",
-    "Pasted image 20230322213541.png",
-    "Pasted image 20230322212630.png",
-    "Pasted image 20230322212423.png",
-    "GAML/ML/Decision Tree.md",
+    "MCS/Process Control/Untitled.md",
+    "MCS/Process Control/IMC.md",
+    "MCS/Process Control/Chap2.md",
+    "MCS/Process Control/Relative Gain Array.md",
+    "MCS/Process Control/Chap3.md",
+    "MCS/Process Control/Cascade Control.md",
+    "GAML/ML/Performance Evaluation for Classifiers.md",
+    "Pasted image 20230328112026.png",
+    "Pasted image 20230328111925.png",
+    "Pasted image 20230328111527.png",
+    "Pasted image 20230328111301.png",
+    "Pasted image 20230328111104.png",
+    "Pasted image 20230328103044.png",
+    "Other Stretagies.md",
+    "Feedforward Control.md",
+    "GAML/pictures/Pasted image 20230326212853.png",
+    "MCS/pictures/Pasted image 20230324184456.png",
+    "MCS/pictures/Pasted image 20230324183935.png",
+    "MCS/pictures/Pasted image 20230324172053.png",
     "GAML/ML/Linear Descriminant Analysis.md",
+    "GAML/ML/Decision Tree.md",
+    "MCS/MPC/1 Basic Formulation.md",
+    "MCS/MPC/MPC.md",
     "ROBO/Kinematics.md",
     "ROBO/Link Coordination.md",
     "ROBO/Rotations and Translations.md",
     "ROBO/Trajectory Planning.md",
     "MCS/Process Control/Multivariate Control Process.md",
     "MCS/Process Control/DSM.md",
-    "MCS/MPC/1 Basic Formulation.md",
-    "MCS/MPC/MPC.md",
-    "Feedforward Control.md",
-    "Other Stretagies.md",
-    "MCS/pictures/Pasted image 20230317115416.png",
-    "MCS/pictures/Pasted image 20230320114459.png",
-    "MCS/pictures/Pasted image 20230320113637.png",
-    "MCS/Process Control/IMC.md",
-    "MCS/Process Control/Chap2.md",
-    "MCS/Process Control/Chap3.md",
     "MCS/Process Control/Chap4.md",
     "MCS/Process Control/Untitled 1.md",
     "MCS/MPC/1 Basic Formulation",
@@ -183,8 +197,6 @@
     "GAML/ML",
     "ROBO/Inverse Kinematics.md",
     "GAML/GA",
-    "MCS/Process Control/Relative Gain Array.md",
-    "MCS/Process Control/Cascade Control.md",
     "MCS/Process Control/Decentralized Control.md",
     "Untitled.md",
     "Untitled 1.md"
