@@ -1,4 +1,4 @@
-[[modern control basics]]
+[[topic_modern control basics]]
 ****
 # setup
 ![[Pasted image 20221124175551.png]]

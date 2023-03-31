@@ -1,4 +1,4 @@
-[[LaserSLAM]]
+[[topic_LaserSLAM]]
 ****
 # Bayes Filter
 ## Intro

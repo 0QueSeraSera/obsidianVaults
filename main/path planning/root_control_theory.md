@@ -1,5 +1,5 @@
 [[classical control]]
 [[discrete_control]]
-[[modern control basics]]
+[[topic_modern control basics]]
 
 

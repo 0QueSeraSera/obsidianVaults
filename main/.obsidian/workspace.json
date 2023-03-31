@@ -13,14 +13,90 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Probability/1_background.md",
+=======
+                "file": "ROS/Action.md",
+>>>>>>> origin/main
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
+<<<<<<< HEAD
             "id": "8e15a02d32352f34",
+=======
+            "id": "fd730c963b97dae5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROS/RRT Rviz  study/Main Function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d4bbcea0388931b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROS/RRT Rviz  study/Main Function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "486580b3f6eb8c44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROS/RRT Rviz  study/Main Function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1852c423282d6a73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROS/SLAM-ROS2 code.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7aba1120a6acf6b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROS/root_ros.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d69667b327686171",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "e31e48508f1ebd60",
+>>>>>>> origin/main
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,7 +120,11 @@
             }
           }
         ],
+<<<<<<< HEAD
         "currentTab": 2
+=======
+        "currentTab": 6
+>>>>>>> origin/main
       }
     ],
     "direction": "vertical"
@@ -73,7 +153,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#ex",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 312.5
   },
   "right": {
     "id": "0ba4d316d073545d",
@@ -110,7 +190,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "general/Python and Cpp.md",
+=======
+>>>>>>> origin/main
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +210,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "general/Python and Cpp.md",
+=======
+>>>>>>> origin/main
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +235,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< HEAD
               "state": {
                 "file": "general/Python and Cpp.md"
               }
+=======
+              "state": {}
+>>>>>>> origin/main
             }
           }
         ]
@@ -171,6 +261,7 @@
       "markdown-importer:Open format converter": false
     }
   },
+<<<<<<< HEAD
   "active": "4d05f58a50b3b8eb",
   "lastOpenFiles": [
     "general/linux.md",
@@ -211,5 +302,19 @@
     "Sensor Fusion/IMU.md",
     "Sensor Fusion/GPS + IMU.md",
     "Sensor Fusion"
+=======
+  "active": "d69667b327686171",
+  "lastOpenFiles": [
+    "path planning/topic_modern control basics.md",
+    "path planning/root_control_theory.md",
+    "control theory/topic_control bootcamp.md",
+    "Navigation/topic_Kalman Filter Special.md",
+    "ROS/RRT Rviz  study/topic_RRT_RViz.md",
+    "Navigation/topic_LaserSLAM.md",
+    "Navigation/root_Navigation_Stack.md",
+    "Navigation/topic_Visual_SLAM.md",
+    "path planning/root_SBP.md",
+    "path planning/basic algorithms.md"
+>>>>>>> origin/main
   ]
 }

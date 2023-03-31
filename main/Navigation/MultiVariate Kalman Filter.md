@@ -1,5 +1,5 @@
-[[LaserSLAM]]
-[[Kalman Filter Special]]
+[[topic_LaserSLAM]]
+[[topic_Kalman Filter Special]]
 ****
 # Overview
 A general procedure of the Bayesian Filter and its variances:

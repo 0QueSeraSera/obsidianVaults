@@ -1,1 +1,1 @@
-[[Probability Theory]]
+[[root_Probability_Theory]]

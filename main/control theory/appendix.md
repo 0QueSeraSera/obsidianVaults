@@ -1,4 +1,4 @@
-[[modern control basics]]
+[[topic_modern control basics]]
 ****
 # block diagram representation
 1. 1/z ==> k+1, delay 1 unit

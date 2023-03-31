@@ -1,4 +1,4 @@
-[[modern control basics]]
+[[topic_modern control basics]]
 ****
 gives estimates of system from inputs and measured outputs
 **the estimated states will replace the true states in the feedback controller**

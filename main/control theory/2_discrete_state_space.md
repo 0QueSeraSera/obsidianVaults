@@ -1,4 +1,4 @@
-[[modern control basics]]
+[[topic_modern control basics]]
 ****
 # Discrete-time SS model with sample and hold
 

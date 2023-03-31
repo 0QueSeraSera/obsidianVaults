@@ -1,4 +1,4 @@
-[[control theory]]
+[[root_control_theory]]
 ****
 [[0_Overview]]
 [[1_]]
