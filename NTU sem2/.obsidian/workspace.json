@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "fe1fc24e80850d3d",
+        "id": "39c83b8503d718ed",
         "type": "tabs",
         "children": [
           {
-            "id": "72e44debd64c2216",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "GAML/pictures/Pasted image 20230326215821.png"
-              }
-            }
-          },
-          {
-            "id": "ee65d4c8d1e300c5",
+            "id": "d4432b2ad36d3319",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MCS/Process Control/IMC.md",
+                "file": "GAML/ML/6 Unsupervised Learning and Clustering.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "3ee0fdd108f38346",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "GAML/pictures/Pasted image 20230410162333.png"
               }
             }
           }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MCS/Process Control/IMC.md",
+                "file": "GAML/pictures/Pasted image 20230410162333.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MCS/Process Control/IMC.md",
+                "file": "GAML/pictures/Pasted image 20230410162333.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MCS/Process Control/IMC.md"
+                "file": "GAML/pictures/Pasted image 20230410162333.png"
               }
             }
           }
@@ -159,28 +159,33 @@
   },
   "active": "a290cb1d29bc82c3",
   "lastOpenFiles": [
+    "GAML/ML/6 Unsupervised Learning and Clustering.md",
+    "GAML/pictures/Pasted image 20230410163620.png",
+    "GAML/pictures/Pasted image 20230410163211.png",
+    "GAML/pictures/Pasted image 20230410162907.png",
+    "GAML/pictures/Pasted image 20230410162639.png",
+    "GAML/pictures/Pasted image 20230410162536.png",
+    "GAML/pictures/Pasted image 20230410162333.png",
+    "GAML/ML/5 feature selection.md",
+    "GAML/pictures/Pasted image 20230410152454.png",
+    "GAML/pictures/Pasted image 20230410152821.png",
+    "GAML/pictures/Pasted image 20230410152751.png",
+    "GAML/pictures/Pasted image 20230410152653.png",
+    "GAML/ML/4 Performance Evaluation for Classifiers.md",
+    "GAML/ML/Unsupervised Learning and Clustering 1.md",
+    "GAML/ML/Linear Descriminant Analysis.md",
+    "GAML/ML/Decision Tree.md",
+    "MCS/MPC/1 Basic Formulation.md",
+    "MCS/MPC/4 Integral Action.md",
+    "MCS/MPC/3 Tuning.md",
     "MCS/Process Control/Untitled.md",
     "MCS/Process Control/IMC.md",
     "MCS/Process Control/Chap2.md",
     "MCS/Process Control/Relative Gain Array.md",
     "MCS/Process Control/Chap3.md",
     "MCS/Process Control/Cascade Control.md",
-    "GAML/ML/Performance Evaluation for Classifiers.md",
-    "Pasted image 20230328112026.png",
-    "Pasted image 20230328111925.png",
-    "Pasted image 20230328111527.png",
-    "Pasted image 20230328111301.png",
-    "Pasted image 20230328111104.png",
-    "Pasted image 20230328103044.png",
     "Other Stretagies.md",
     "Feedforward Control.md",
-    "GAML/pictures/Pasted image 20230326212853.png",
-    "MCS/pictures/Pasted image 20230324184456.png",
-    "MCS/pictures/Pasted image 20230324183935.png",
-    "MCS/pictures/Pasted image 20230324172053.png",
-    "GAML/ML/Linear Descriminant Analysis.md",
-    "GAML/ML/Decision Tree.md",
-    "MCS/MPC/1 Basic Formulation.md",
     "MCS/MPC/MPC.md",
     "ROBO/Kinematics.md",
     "ROBO/Link Coordination.md",
@@ -189,16 +194,10 @@
     "MCS/Process Control/Multivariate Control Process.md",
     "MCS/Process Control/DSM.md",
     "MCS/Process Control/Chap4.md",
-    "MCS/Process Control/Untitled 1.md",
     "MCS/MPC/1 Basic Formulation",
     "MCS/MPC",
     "MCS/Process Control",
-    "GAML/GA/Chap3 Overview of EA.md",
     "GAML/ML",
-    "ROBO/Inverse Kinematics.md",
-    "GAML/GA",
-    "MCS/Process Control/Decentralized Control.md",
-    "Untitled.md",
-    "Untitled 1.md"
+    "GAML/GA"
   ]
 }

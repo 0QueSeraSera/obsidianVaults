@@ -31,7 +31,7 @@ a few discoveries:
 Fisher's LDA aims to find a hyperplane that `maximizes the seperation between classes`  _while_ `minimizes the variance within each class`
 
 **utilize the property of projection on w**
-**find the w that projection is seperated well**
+**find the w that projection is separated well**
 ![[Pasted image 20230316180426.png]]
 ## Math
 ### formulation
