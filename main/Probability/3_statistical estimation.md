@@ -1,7 +1,7 @@
-[[Bayes Theory]]
+[[topic_Bayes Theory]]
 ****
 # background
-from [[Bayes Theory]]
+from [[topic_Bayes Theory]]
 ![[Pasted image 20221121170730.png]]
 The pdf is often unknown, thus use estimation
 #posterior is hard to estimate

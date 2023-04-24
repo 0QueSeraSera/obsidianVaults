@@ -8,7 +8,7 @@
 ![[Pasted image 20230305153546.png]]
 ![[Pasted image 20230305154022.png]]
 ## recall MAP
-a reminder of MAP [[Bayes Theory]]
+a reminder of MAP [[topic_Bayes Theory]]
 ![[Pasted image 20221122023159.png]]
 think of a classification problem with given observation x, the classification is `P(omega|x)`
 ```

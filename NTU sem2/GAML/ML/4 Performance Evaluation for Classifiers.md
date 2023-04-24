@@ -51,14 +51,17 @@ A 2X2 matrix based on 4 possible outcome
 ## A few metrics
 ![[Pasted image 20230410124836.png]]
 ### Accuracy and Error Rate
+- The only two that focus on **global** rate
+- The denominator is the whole scenario
 `Acc = (TP + TN) / (TP + FP + TN + FN)`
 `Err = (FP + FN) / (TP + FP + TN + FN)`
 These 2 directly shows the portion of *correct* classification and *wrong* classification
 
 ### Sensitivity and Specificity
+- D is based on _sample_ classes, instead of _predictions_
+- In contrast with the **Recall**
 Sensitivity focuses on positive _samples_
 Specificity focuses on **negative** _samples_
-In contrast with the **Precision** and **Recall**
 ![[Pasted image 20230410125525.png]]
 ![[Pasted image 20230410125611.png]]
 
@@ -69,7 +72,8 @@ Their _numerators_ are both **TP**
 	Precision measures against all positive **predictions**
 	Recall measures against all positive **samples**
 ![[Pasted image 20230410130254.png]]
-
+![[Pasted image 20230410170848.png]]
+![[Pasted image 20230410171106.png]]
 ### F-Score
 ![[Pasted image 20230410130601.png]]
 ```

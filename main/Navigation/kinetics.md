@@ -1,6 +1,6 @@
 root
 ****
-# Euclidian Transform
+# Euclidean Transform
 - made of rotation and transfer
 ## rotation
 ![[Pasted image 20221211230327.png]]
@@ -23,5 +23,5 @@ and combine:
 ### homogeneous coord
 ![[Pasted image 20221211232127.png]]
 
-### SE(n) Special Euclidian Group
+### SE(n) Special Euclidean Group
 ![[Pasted image 20221211232246.png]]

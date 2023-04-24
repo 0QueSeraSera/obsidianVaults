@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "944d6cf1937b8dac",
+        "id": "94d0043a67fc0a5a",
         "type": "tabs",
         "children": [
           {
-            "id": "c8089d47fcff8b83",
+            "id": "dcd01fa52910af8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROS/RRT Rviz  study/grammer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b10246aeae557bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "path planning/basic algorithms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7408c69b37443382",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "path planning/OMPL/OMPL Primer.md",
+                "file": "Sensor Fusion/RIS_KF.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "path planning/OMPL/OMPL Primer.md",
+                "file": "Sensor Fusion/RIS_KF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "path planning/OMPL/OMPL Primer.md",
+                "file": "Sensor Fusion/RIS_KF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "path planning/OMPL/OMPL Primer.md"
+                "file": "Sensor Fusion/RIS_KF.md"
               }
             }
           }
@@ -171,26 +146,47 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7408c69b37443382",
+  "active": "ab63173f49ed3129",
   "lastOpenFiles": [
+    "pictures/Pasted image 20230424105729.png",
+    "pictures/Pasted image 20230423233155.png",
+    "Sensor Fusion/RIS_KF.md",
+    "pictures/Pasted image 20230424105602.png",
+    "pictures/Pasted image 20230424105443.png",
+    "pictures/Pasted image 20230423234104.png",
+    "Sensor Fusion/A robot localization example.md",
+    "pictures/Pasted image 20230423232207.png",
+    "pictures/Pasted image 20230423233106.png",
+    "pictures/Pasted image 20230423232934.png",
+    "pictures/Pasted image 20230423232751.png",
+    "pictures/Pasted image 20230423232405.png",
+    "pictures/Pasted image 20230423232323.png",
+    "Navigation/6 Non-linear Optimization.md",
+    "Sensor Fusion/topic_Kalman Filter Special.md",
+    "Sensor Fusion/EKF.md",
+    "Navigation/topic_LaserSLAM.md",
+    "Navigation/MultiVariate Kalman Filter.md",
+    "Navigation/C Intro to Filtering.md",
+    "Navigation/UnitA1 Motion Model.md",
+    "Sensor Fusion/UKF.md",
+    "Sensor Fusion/Particle Filter.md",
+    "Sensor Fusion/MSCKF.md",
+    "Sensor Fusion/IMU.md",
+    "vision/SFM.md",
     "path planning/basic algorithms.md",
+    "Navigation/kinetics.md",
+    "vision/1_camera model.md",
+    "DL-Basics/classical framework.md",
+    "Navigation/Visual Inertial Odometry.md",
+    "vision/Quaternions.md",
+    "Navigation/State Augmentation.md",
+    "vision/2_single_view_geometry.md",
+    "vision/root_3D vision.md",
+    "path planning/topic_Bayes Theory.md",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
     "path planning/OMPL/OMPL Primer.md",
-    "path planning/OMPL",
-    "path planning/root_SBP.md",
-    "path planning/RRT.md",
-    "path planning/RRT-Connect.md",
-    "path planning/RRT-star.md",
-    "path planning/essay collections.md",
-    "path planning/collistion detection.md",
-    "path planning/Bayes Theory.md",
-    "path planning/Batch Informed Trees.md",
-    "path planning/Adaptively Informed Trees (AIT-star).md",
-    "path planning/2022 improved RRT-Connect.md",
-    "control theory/topic_modern control basics.md",
-    "general/Python Grammar.md",
-    "ROS/RRT Rviz  study/grammer.md",
-    "general/Python and Cpp.md",
-    "general/linux.md",
-    "video analysis.md"
+    "path planning/OMPL"
   ]
 }

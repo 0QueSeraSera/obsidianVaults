@@ -1,4 +1,4 @@
-[[Bayes Theory]]
+[[topic_Bayes Theory]]
 ****
 # multi-variable and loss function
 the #loss_function  states exactly how costly each action is, and is used to convert a probability determination into a decision

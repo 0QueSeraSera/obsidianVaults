@@ -12,9 +12,9 @@ Distribution based clustering
 
 
 
-## K-means
+### K-means
 ![[Pasted image 20230403231924.png]]
-### Criterion
+#### Criterion
 WCSS
 k clusters with k different `mean`
 all samples
@@ -24,7 +24,7 @@ WCSS measures the **total squared error**
 the mean vector is the _best representative_ of each clusters
 ![[Pasted image 20230403232409.png]]
 
-### Procedure
+#### Procedure
 2 main operations:
 - Init k clusters with *randomly* selected k samples
 - Assign Samples to the nearest cluster
@@ -34,7 +34,7 @@ procedure:
 2. ![[Pasted image 20230405180732.png]]
 3. ![[Pasted image 20230405180739.png]]
 4. ![[Pasted image 20230405180814.png]]It will **reach a steady state** at last
-### Elbow Methods
+#### Elbow Methods
 ![[Pasted image 20230405181323.png]]
 
 ## Hierarchical Clustering
@@ -76,8 +76,6 @@ In summary
 3. **Centroid linkage**![[Pasted image 20230410162639.png]]
 ![[Pasted image 20230410162907.png]]
 4. **Average Linkage**![[Pasted image 20230410163620.png]]
-
-
 
 
 ## Density-based clustering

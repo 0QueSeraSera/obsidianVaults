@@ -1,4 +1,4 @@
-[[3D vision]]
+[[root_3D vision]]
 ****
 # basics
 ## Projecting to image planes

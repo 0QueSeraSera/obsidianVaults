@@ -1,4 +1,4 @@
-[[3D vision]]
+[[root_3D vision]]
 ****
 # vanishing point
 vanishing point in homogeneous world frame is 0 in 4th dimension

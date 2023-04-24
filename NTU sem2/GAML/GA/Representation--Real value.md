@@ -3,31 +3,47 @@
 # Real value or Floating point
 Note the form of genes: **vector of k real valued elements**
 ![[Pasted image 20230219230054.png]]
+## Representation
+![[Pasted image 20230421123240.png]]
+the function Gamma, maps the 0-1 bit string to real values. For example:
+`[x,y]==[0,3], L=3 --> {a1, a2, a3}`
+`{1,1,1}-->`
+	`0 + (3-0)/(2^3-1)*(1 + 1*2^1 + 1*2*2) == 3`
+`{1,1,0} -->`
+	`0 + (3-0)/(2^3-1)*(0 + 1*2^1 + 1*2*2) == 18/7`
+it always follows: 
+_upper bounds: all  bits are 1 --> maps to y
+lower bounds: all bits are 0 --> maps to x_
+Only 2^L values between `[x,y]` can be represented
 ## Mutation
 Change the entire value, instead of bits
 categorized with probability distribution
 ![[Pasted image 20230219230441.png]]
 #### Uniform Mutation
 ![[Pasted image 20230219230604.png]]
-#### Nonuniform Matation
+#### Nonuniform Mutation
 - small change 
 - drawn from Gaussian Distribution
 ![[Pasted image 20230219230754.png]]
 The mean is 0, Std is called **_mutation step size_**
+#concept std of Gaussian distribution mutation
 ![[Pasted image 20230219230940.png]]
 #### Self-adaptive mutation
-Mutation step size evolves along the way
+_Mutation step size_ (std of distribution) evolves along the way
 ![[Pasted image 20230219232013.png]]
-To achieve this 'coevolve', `sigma` must be modified first, before gene mutation
+#concept  To achieve this 'co-evolve', _mutation step size_ must be modified first, before gene mutation
 
 ![[Pasted image 20230219232434.png]]
 
 #### Uncorrelated Mutation with 1 sigma
-![[Pasted image 20230219232552.png]]
+![[Pasted image 20230421175151.png]]
 ![[Pasted image 20230219232706.png]]
 these 2 formulas specify the mutation mechanism
 Also, need to limit sigma's range
 ![[Pasted image 20230219232812.png]]
+#### Uncorrelated with n sigma
+exists 2 coefficients for sigma_i variance
+![[Pasted image 20230421175535.png]]
 
 #### Correlated 
 ![[Pasted image 20230220110022.png]]

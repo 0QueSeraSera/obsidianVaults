@@ -1,4 +1,4 @@
-[[3D vision]]
+[[root_3D vision]]
 ****
 # base
 ![[Pasted image 20221121022105.png]]

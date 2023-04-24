@@ -1,2 +1,2 @@
 [[Random Process]]
-[[Bayes Theory]]
+[[topic_Bayes Theory]]

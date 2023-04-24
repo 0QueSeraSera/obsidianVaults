@@ -11,7 +11,7 @@ Components of MPC
 ![[Pasted image 20230316214706.png]]
 **view z as a time shift symbol: zY <--> y(k+1)**
 ## A naive solution
-Note: _hat notation_ means prediction
+Note: _hat notation_ means prediddction
 `y_hat(k+2|k)` means prediction of 2 steps forward _at time k_
 ![[Pasted image 20230323105506.png]]
 ## Another case

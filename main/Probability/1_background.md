@@ -1,4 +1,4 @@
-[[Bayes Theory]]
+[[topic_Bayes Theory]]
 ****
 # background
 designing a classifier to separate two kinds of fish: sea bass and salmon
