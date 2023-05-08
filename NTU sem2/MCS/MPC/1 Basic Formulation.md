@@ -83,6 +83,7 @@ The matching is shown here:
 ![[Pasted image 20230322212630.png]]
 
 # Many State Representation
+Incremental model produces a tidier representation (align with the cost function)
 An incremental input:
 ![[Pasted image 20230322215940.png]]
 compared with (1):
@@ -105,7 +106,7 @@ Still divide into the past and the future, but no gamma and u(k-1) term
 in the previous solution for the optimal control law, use A to encapsulate the past
 ![[Pasted image 20230324183935.png]]
 ![[Pasted image 20230324184456.png]]
-We can see that the `F = Phi X x(k) + gamma X u(k-1)` is placed with only `Phi X zeta(k)`
+We can see that the `F = Phi X x(k) + gamma X u(k-1)` is placed with only `Phi X xi(k)`
 
 
 

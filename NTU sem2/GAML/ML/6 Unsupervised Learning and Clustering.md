@@ -15,14 +15,15 @@ Distribution based clustering
 ### K-means
 ![[Pasted image 20230403231924.png]]
 #### Criterion
-WCSS
+WCSS (Within Cluster Sum of Squares)
 k clusters with k different `mean`
 all samples
-**Sum** over all samples' differences with all `mean` values
+**Sum** over all samples' differences with their respective cluster's `mean` values
 ![[Pasted image 20230403232148.png]]
 WCSS measures the **total squared error**
 the mean vector is the _best representative_ of each clusters
 ![[Pasted image 20230403232409.png]]
+WCSS depends on how samples are grouped. The best partitioning minimizes WCSS
 
 #### Procedure
 2 main operations:
@@ -103,5 +104,6 @@ directly density reachable,  density-reachable,
 `sigma`
 - general small values are preferred
 Procedure:
+focus on the notion of **Density connected**
 ![[Pasted image 20230405224012.png]]
 In contrast with k-means, DBSCAN starts with only *1* sample

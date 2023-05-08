@@ -59,13 +59,15 @@ randomly select 1 parent's allele to inherite
 ### Intermediate
 weighted average of 2 allele values from parents
 The 3 ways of arithmetic crossover below, are all like intermediate
+They are different in application range.
 ![[Pasted image 20230220111948.png]]
 #### Single Arithmetic Crossover
 replace **a single gene** with weighted average
 ![[Pasted image 20230220112231.png]]
 #### Simple Arithmetic Crossover
 It is different from the single arithmetic crossover
-- weighted averaged all genes after index k
+- weighted averaged _all genes_ after index k
+- compared with Single Arithmetic Crossover, all tail genes are modified
 ![[Pasted image 20230220112445.png]]
 #### Whole Arithmetic Crossover
 ![[Pasted image 20230220112720.png]]

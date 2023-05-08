@@ -46,6 +46,7 @@ Here we introduce `T(s)` and `R(s)`
 `S(s)` is the TF _between output Y and disturbance D_
 
 ![[Pasted image 20230218115931.png]]
+*core thoughts:*
 We want to derive `Gc(s)`, the **controller**
 Thus, use T(s) equation
 Solve for `Gc`
@@ -109,8 +110,6 @@ G_c = 1/G~ * ((Y/R)_d/(1-(Y/R)_d))
 ![[Pasted image 20230224153943.png]]
 Different order leads to different G~
 Different Time delay leads to different `(Y/R)_d`
-[[IMC]]
-
 
 # [[IMC]]
 # Smith Predictor

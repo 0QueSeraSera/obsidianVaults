@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sensor Fusion/RIS_KF.md",
+                "file": "vision/SFM.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sensor Fusion/RIS_KF.md",
+                "file": "vision/SFM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sensor Fusion/RIS_KF.md",
+                "file": "vision/SFM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sensor Fusion/RIS_KF.md"
+                "file": "vision/SFM.md"
               }
             }
           }
@@ -146,33 +146,34 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ab63173f49ed3129",
+  "active": "dcd01fa52910af8e",
   "lastOpenFiles": [
+    "Sensor Fusion/topic_Kalman Filter Special.md",
+    "Sensor Fusion/Particle Filter.md",
+    "Sensor Fusion/IMU.md",
+    "Sensor Fusion/EKF.md",
+    "Sensor Fusion/EE6221_KF.md",
+    "pictures/Pasted image 20230424115255.png",
+    "vision/SFM.md",
+    "pictures/Pasted image 20230424152244.png",
+    "pictures/Pasted image 20230424151604.png",
+    "pictures/Pasted image 20230424151100.png",
+    "pictures/Pasted image 20230424150949.png",
+    "Nyquist plot.md",
+    "pictures/2 continuous features.md",
     "pictures/Pasted image 20230424105729.png",
     "pictures/Pasted image 20230423233155.png",
-    "Sensor Fusion/RIS_KF.md",
     "pictures/Pasted image 20230424105602.png",
     "pictures/Pasted image 20230424105443.png",
     "pictures/Pasted image 20230423234104.png",
     "Sensor Fusion/A robot localization example.md",
-    "pictures/Pasted image 20230423232207.png",
-    "pictures/Pasted image 20230423233106.png",
-    "pictures/Pasted image 20230423232934.png",
-    "pictures/Pasted image 20230423232751.png",
-    "pictures/Pasted image 20230423232405.png",
-    "pictures/Pasted image 20230423232323.png",
     "Navigation/6 Non-linear Optimization.md",
-    "Sensor Fusion/topic_Kalman Filter Special.md",
-    "Sensor Fusion/EKF.md",
     "Navigation/topic_LaserSLAM.md",
     "Navigation/MultiVariate Kalman Filter.md",
     "Navigation/C Intro to Filtering.md",
     "Navigation/UnitA1 Motion Model.md",
     "Sensor Fusion/UKF.md",
-    "Sensor Fusion/Particle Filter.md",
     "Sensor Fusion/MSCKF.md",
-    "Sensor Fusion/IMU.md",
-    "vision/SFM.md",
     "path planning/basic algorithms.md",
     "Navigation/kinetics.md",
     "vision/1_camera model.md",
@@ -182,11 +183,9 @@
     "Navigation/State Augmentation.md",
     "vision/2_single_view_geometry.md",
     "vision/root_3D vision.md",
-    "path planning/topic_Bayes Theory.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "path planning/OMPL/OMPL Primer.md",
     "path planning/OMPL"
   ]
 }

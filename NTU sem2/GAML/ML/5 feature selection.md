@@ -1,4 +1,9 @@
 ![[Pasted image 20230409134314.png]]
+## Peaking Phenomenon
+![[Pasted image 20230425150051.png]]
+![[Pasted image 20230425150205.png]]
+
+
 # Individual Feature Evaluation
 look at each feature's discriminatory capability.
 ## Fisher's Ratio
@@ -35,10 +40,18 @@ Train classifiers on the subset
 2. Scatter-based![[Pasted image 20230409140559.png]]
 ## Selection algorithms
 consists of a _search method_ and an _eval criterion_
+**wrapper**: includes a classifier and use classification performance as eval criterion (like wrapping the classifier up in the process)
+**filter**: no classifier included. uses separability measures
 ![[Pasted image 20230410150702.png]]
+![[Pasted image 20230425145105.png]]
+![[Pasted image 20230425145118.png]]
+
+
 ### Sequential Forward Feature Selection
 Combining _Sequential forward Search_ and _evaluation criteria_
+Choose to **train a classifier** or **evaluate the separability**
 ![[Pasted image 20230410152454.png]]
+
 ![[Pasted image 20230410152653.png]]
 ![[Pasted image 20230410152751.png]]
 ### Sequential Backward Feature Selection

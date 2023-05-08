@@ -4,45 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "ea274ffc035d41c8",
+        "id": "750639de088533f0",
         "type": "tabs",
         "children": [
           {
-            "id": "66272bd0c0be208e",
+            "id": "1d9ce56133b204d5",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "GAML/pictures/Pasted image 20230423105543.png"
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "c87faa5b04e7068e",
+            "id": "69be597726455f7a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "GAML/ML/Linear Descriminant Analysis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e508afade397027",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROBO/kinematics/3. Inverse Kinematics.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.2.7"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -61,7 +45,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -87,6 +71,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "d91baf201600f332",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -108,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ROBO/kinematics/3. Inverse Kinematics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ROBO/kinematics/3. Inverse Kinematics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +137,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ROBO/kinematics/3. Inverse Kinematics.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -169,44 +157,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a290cb1d29bc82c3",
+  "active": "69be597726455f7a",
   "lastOpenFiles": [
-    "ROBO/kinematics/2. Kinematics.md",
-    "ROBO/mobile/Mobile Robot Kinematics.md",
-    "ROBO/pictures/Pasted image 20230423202621.png",
-    "ROBO/pictures/Pasted image 20230423204636.png",
-    "ROBO/pictures/Pasted image 20230423204211.png",
-    "ROBO/pictures/Pasted image 20230423204158.png",
-    "ROBO/pictures/Pasted image 20230423203329.png",
-    "ROBO/pictures/Pasted image 20230423203328.png",
-    "ROBO/pictures/Pasted image 20230423201248.png",
-    "ROBO/pictures/Pasted image 20230423202250.png",
-    "ROBO/pictures/Pasted image 20230423202131.png",
-    "ROBO/pictures/Pasted image 20230423202112.png",
-    "GAML/ML/Bayes Classifier.md",
-    "GAML/ML/Linear Descriminant Analysis.md",
-    "GAML/ML/Decision Tree.md",
-    "GAML/ML/4 Performance Evaluation for Classifiers.md",
-    "GAML/ML/6 Unsupervised Learning and Clustering.md",
-    "GAML/ML/5 feature selection.md",
-    "ROBO/control/Robot Dynamic Model.md",
-    "ROBO/mobile",
-    "ROBO/control/Position Control.md",
-    "ROBO/control/Force Control.md",
-    "GAML/GA/Chap6 EA Algorithms.md",
-    "GAML/GA/Representation--Permutaion.md",
-    "GAML/GA/Chap4 Representation Mutation & Recombination.md",
-    "ROBO/kinematics/5. differential motion and statics.md",
-    "MCS/Process Control/Feedforward Control.md",
-    "ROBO/kinematics/D-H Representation.md",
-    "MCS/Process Control/Chap3.md",
-    "MCS/Process Control/Other Stretagies.md",
-    "ROBO/kinematics/4. Trajectory Planning.md",
+    "MCS/MPC/MPC.md",
+    "MCS/MPC/Incremental Input Form.md",
+    "MCS/MPC/4 Integral Action.md",
+    "MCS/MPC/1 Basic Formulation.md",
+    "MCS/MPC/3 Tuning.md",
+    "MCS/pictures/Pasted image 20230501114327.png",
+    "MCS/pictures/Pasted image 20230501114132.png",
+    "MCS/Process Control/Relative Gain Array.md",
+    "MCS/Process Control/Chap4.md",
+    "MCS/Process Control/Multivariate Control Process.md",
+    "MCS/Process Control/Chap2.md",
+    "MCS/Process Control/IMC.md",
+    "MCS/Process Control/DSM.md",
+    "MCS/Process Control/Decentralized Control.md",
     "ROBO/kinematics/Rotations and Translations.md",
     "ROBO/kinematics/Link Coordination.md",
+    "ROBO/kinematics/2. Kinematics.md",
     "ROBO/kinematics/3. Inverse Kinematics.md",
+    "ROBO/control/Position Control.md",
+    "ROBO/control/Force Control and Hybrid Control.md",
+    "ROBO/control/Robot Dynamic Model.md",
+    "ROBO/mobile/Mobile Robot Kinematics.md",
+    "ROBO/kinematics/D-H Representation.md",
+    "GAML/pictures/Pasted image 20230425204947.png",
+    "GAML/pictures/Pasted image 20230426111250.png",
+    "GAML/GA/Representation--Permutaion.md",
+    "GAML/GA/Chap4 Representation Mutation & Recombination.md",
     "GAML/GA/Selection.md",
     "GAML/GA/Chap5 Fitness, Selection, Population Management.md",
+    "GAML/GA/Chap6 EA Algorithms.md",
+    "GAML/pictures/Pasted image 20230425145105.png",
+    "GAML/pictures/Pasted image 20230425160113.png",
+    "GAML/pictures/Pasted image 20230425160101.png",
+    "GAML/pictures/Pasted image 20230425160031.png",
+    "GAML/pictures/Pasted image 20230425155455.png",
+    "GAML/pictures/Pasted image 20230425155316.png",
+    "ROBO/mobile",
     "ROBO/control",
     "ROBO/kinematics",
     "MCS/MPC/1 Basic Formulation",

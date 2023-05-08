@@ -1,6 +1,6 @@
 root
 ****
-[[RIS_KF]]
+[[EE6221_KF]]
 ****
 [[C Intro to Filtering]]
 [[MultiVariate Kalman Filter]]

@@ -20,9 +20,6 @@ and 1-2/2-1 controller pairing
 The 3rd closed loop is present. This may destablize the system and make tuning more difficult
 ![[Pasted image 20230223234810.png]]
 
-
-
-
 ## Block Diagram Analysis
 **Discuss when when the other feedback loop is open or close**
 Given this 1-1/2-2 paring:

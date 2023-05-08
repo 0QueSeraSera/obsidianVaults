@@ -12,7 +12,7 @@ Note it is the steady state here
 ## Properties
 ![[Pasted image 20230223232612.png]]
 1. _dimensionless_
-2. sum of each row and column is 1
+2. **sum** of each row and column is 1
 With the sum property, as a 2x2 system, 1 elements determine other 2. The other 2 are equal
 #recite K11·K22 / (det())
 ![[Pasted image 20230223232735.png]]
@@ -28,7 +28,7 @@ General rules:
 Examine by rows and columns.
 Find the **Positive values** only, look for the one closest to 1
 ![[Pasted image 20230224002009.png]]
-
+![[Pasted image 20230501114132.png]]
 # Computation
 In 2x2 system
 (This formulat also follows higher order's methods)
@@ -42,7 +42,7 @@ let:
 H = transpose(inv(K))
 ```
 `lambda_ij = K_ij · H_ij`
-![[Pasted image 20230224003109.png]]
+![[Pasted image 20230501114327.png]]
 
 # Niederlinski Stability Theorem
 ![[Pasted image 20230224003254.png]]

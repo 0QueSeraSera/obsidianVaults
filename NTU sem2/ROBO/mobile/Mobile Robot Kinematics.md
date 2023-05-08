@@ -44,7 +44,7 @@ don't forget the effect of `l` and `theta`
 ### Castor Wheel
 ![[Pasted image 20230423162342.png]]
 ![[Pasted image 20230423201633.png]]
-Note that `beta` is variable. all signs in sliding constraint are positive.
+Note that `beta` is variable. all signs in sliding constraint are **positive**.
 ### Swedish Wheel
 ![[Pasted image 20230423202112.png]]
 ![[Pasted image 20230423202131.png]]

@@ -7,14 +7,20 @@ In other words, the integral action continuously _integrates the error signal ov
 
 Overall, integral action is an important component of MPC that allows for better tracking and control of the system's behavior, especially when dealing with systems that have inherent steady-state errors.
 
-# Review on Cost Functions
-## Requirement for the Cost Functions
+
+# Requirements
+1. in steady state, the _minimum_ of cost function must be consistent with zero tracking errors
+2. predictions must be *unbiased*
 ![[Pasted image 20230403160027.png]]
+
 ## Cost Function Design
 The incremental control form is valid.
+judgement: whether `J = 0` is achieved when `y - w = 0` and `delta{u} = 0`
 ![[Pasted image 20230403160206.png]]
-This does not meet the requirements
+This does not meet the requirements. note the second term is `u` instead of `delta{u}`
 ![[Pasted image 20230403160235.png]]
 
-Add the steady state into consideration:
+Add the steady state into consideration. Now **when `J=0`, `y-w=0` and `u=u_ss`**, hence `delta{u} = 0`
 ![[Pasted image 20230403160545.png]]
+
+## Unbiased

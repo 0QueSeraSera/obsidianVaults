@@ -36,23 +36,28 @@ Fisher's LDA aims to find a hyperplane that `maximizes the seperation between cl
 ## Math
 ### formulation
 use the `mean` to analyze
+First, acquire the samples' mean.
+Then, acquire the _projected_ samples' mean
+`~m = trans(w) * m_i`
 ![[Pasted image 20230316180456.png]]
-The distance between projected mean:
+The _distance_ between projected mean:
 ![[Pasted image 20230316180811.png]]
 
-Define the **scatter** of data _within each class_
-![[Pasted image 20230316180852.png]]
+Define the **scatter** of data _within each class_. A measurement about how scattered samples are within a class.
+`class i: (~s)^2 = sum{[g(x) - ~m]^2}`
+![[Pasted image 20230424163112.png]]
 ![[Pasted image 20230326212853.png]]
 
-Totally within-class scatter:
+**Totally within-class scatter**:
 ![[Pasted image 20230316180918.png]]
 
 The key criteria: 
+Maximize:
 `distance between classes` divided by `scatter within each class`
 ![[Pasted image 20230316180940.png]]
 Define the `explicit function` and 2 matrices: `S_w`, `S_B`
 `S_b` is the _between-class scatter matrix_
-`S_w` is
+`S_w` is _within-class scatter_
 We have the simplication:
 ![[Pasted image 20230316181718.png]]
 ### detail of simplification
@@ -92,8 +97,17 @@ note the calculation of `w_0`
 # Multiple LDA
 ## generalization
 The required number of descriminant function and data's dimision change
-![[Pasted image 20230326215721.png]]
-The within-class scatter matrix is generalized
-![[Pasted image 20230326215821.png]]
-Along with the total mean vector
-![[Pasted image 20230326215907.png]]
+for a c-class problem, there is c-1 descriminant functions
+**Within-class scatter matrix** are the same
+![[Pasted image 20230424202920.png]]
+
+Introduce **total mean** and **total scatter** matrix
+![[Pasted image 20230424203128.png]]
+note `S_T = S_W + S_B`
+with `S_B` being the weighted sum of of each classes' **difference**
+Note that `S_W` and `S_T` do _not divide sample_num_, the same with 2-class case.
+![[Pasted image 20230424203208.png]]
+
+Now we can form c-1 **discriminant functions**
+![[Pasted image 20230424203638.png]]
+![[Pasted image 20230424203853.png]]
