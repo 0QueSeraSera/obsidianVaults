@@ -21,14 +21,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Navigation/7 Visual Odometry 1.md",
+                "file": "path planning/root_control_theory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93a7680e5865f974",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "control theory/LTI system.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Navigation/7 Visual Odometry 1.md",
+                "file": "control theory/LTI system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Navigation/7 Visual Odometry 1.md",
+                "file": "control theory/LTI system.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Navigation/7 Visual Odometry 1.md"
+                "file": "control theory/LTI system.md"
               }
             }
           }
@@ -163,10 +175,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "29350d430ece6532",
+  "active": "93a7680e5865f974",
   "lastOpenFiles": [
-    "Navigation/topic_Visual_SLAM.md",
+    "control theory/classical control.md",
+    "path planning/root_control_theory.md",
+    "control theory/Bode plot.md",
+    "control theory/appendix.md",
     "Navigation/7 Visual Odometry 1.md",
+    "Navigation/topic_Visual_SLAM.md",
     "Untitled",
     "vision/SFM.md",
     "Sensor Fusion/topic_Kalman Filter Special.md",
@@ -198,10 +214,6 @@
     "Navigation/kinetics.md",
     "vision/1_camera model.md",
     "DL-Basics/classical framework.md",
-    "Navigation/Visual Inertial Odometry.md",
-    "vision/Quaternions.md",
-    "Navigation/State Augmentation.md",
-    "vision/2_single_view_geometry.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
