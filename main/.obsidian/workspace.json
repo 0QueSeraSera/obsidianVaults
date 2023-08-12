@@ -4,43 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "adb7512d779afdc3",
+        "id": "7df5b9a5cd9d99aa",
         "type": "tabs",
         "children": [
           {
-            "id": "1a4437d26dbd9eee",
+            "id": "96709aba7f55978e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "29350d430ece6532",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "path planning/root_control_theory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93a7680e5865f974",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vision/Quaternions.md",
-                "mode": "source",
-                "source": false
+                "file": "pictures/Pasted image 20230812174016.png"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +71,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -115,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vision/Quaternions.md",
+                "file": "pictures/Pasted image 20230812174016.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vision/Quaternions.md",
+                "file": "pictures/Pasted image 20230812174016.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vision/Quaternions.md"
+                "file": "pictures/Pasted image 20230812174016.png"
               }
             }
           }
@@ -176,54 +152,53 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "93a7680e5865f974",
+  "active": "ab63173f49ed3129",
   "lastOpenFiles": [
-    "Pasted image 20230812120332.png",
-    "Navigation/kinematics.md",
-    "Navigation/UnitA1 Motion Model.md",
-    "vision/Quaternions.md",
-    "Navigation/topic_Visual_SLAM.md",
+    "Navigation/visual_slam/6 Non-linear Optimization.md",
+    "pictures/Pasted image 20230812182002.png",
+    "pictures/Pasted image 20230812181844.png",
+    "pictures/Pasted image 20230812181530.png",
+    "pictures/Pasted image 20230812181450.png",
+    "pictures/Pasted image 20230812181426.png",
+    "pictures/Pasted image 20230812181417.png",
+    "pictures/Pasted image 20230812174943.png",
+    "pictures/Pasted image 20230812174846.png",
+    "pictures/Pasted image 20230812174831.png",
+    "pictures/Pasted image 20230812174814.png",
+    "Navigation/Visual Inertial Odometry.md",
+    "Navigation/laser_slam/B Incorporate sensor data.md",
+    "Navigation/laser_slam/C Intro to Filtering.md",
+    "Navigation/laser_slam",
+    "Navigation/visual_slam/9 Backend1.md",
+    "path planning/root_control_theory.md",
+    "Navigation/visual_slam/7 Visual Odometry 1.md",
+    "Navigation/RANSAC.md",
+    "Navigation/visual_slam",
+    "Navigation/MultiVariate Kalman Filter.md",
+    "Sensor Fusion/topic_Kalman Filter Special.md",
+    "Navigation/laser_slam/topic_LaserSLAM.md",
+    "Navigation/Techniques.md",
+    "Navigation/visual_slam/topic_Visual_SLAM.md",
+    "Navigation/State Augmentation.md",
+    "Navigation/root_Navigation_Stack.md",
     "Navigation/Lie Group.md",
-    "Pasted image 20230812113001.png",
-    "Pasted image 20230812112915.png",
-    "Pasted image 20230812112811.png",
-    "Pasted image 20230812112706.png",
-    "Pasted image 20230812112602.png",
-    "Pasted image 20230812112404.png",
-    "Pasted image 20230812112312.png",
-    "Pasted image 20230812112207.png",
-    "Navigation/7 Visual Odometry 1.md",
-    "control theory/transfer function.md",
-    "NTU ROBO/ROBO/pictures/Pasted image 20230423204636.png",
-    "NTU ROBO/ROBO/pictures/Pasted image 20230423204211.png",
-    "NTU ROBO/ROBO/kinematics/Rotations and Translations.md",
-    "NTU ROBO/ROBO/mobile/Mobile Robot Kinematics.md",
-    "NTU ROBO/ROBO/kinematics/Link Coordination.md",
-    "NTU ROBO/ROBO/kinematics/5. differential motion and statics.md",
-    "NTU ROBO/ROBO/kinematics/D-H Representation.md",
-    "NTU ROBO/ROBO/kinematics/Lie Group.md",
-    "NTU ROBO/ROBO/kinematics/4. Trajectory Planning.md",
-    "NTU ROBO/ROBO/kinematics/3. Inverse Kinematics.md",
-    "NTU ROBO/ROBO/control/Position Control.md",
-    "NTU ROBO/ROBO/control/Robot Dynamic Model.md",
-    "NTU ROBO/ROBO/control/Force Control and Hybrid Control.md",
-    "NTU ROBO/ROBO/kinematics/2. Kinematics.md",
+    "Navigation/kinematics.md",
+    "path planning/basic algorithms.md",
+    "path planning/Adaptively Informed Trees (AIT-star).md",
+    "path planning/2022 improved RRT-Connect.md",
+    "path planning/RRT.md",
+    "path planning/root_SBP.md",
+    "path planning/Informed-RRT-star.md",
+    "path planning/essay collections.md",
+    "path planning/Batch Informed Trees.md",
     "NTU ROBO/ROBO/pictures",
     "NTU ROBO/ROBO/mobile",
     "NTU ROBO/ROBO/kinematics",
     "NTU ROBO/ROBO/control",
-    "NTU ROBO/mobile/Mobile Robot Kinematics.md",
-    "NTU ROBO/kinematics/Rotations and Translations.md",
-    "NTU ROBO/kinematics/Link Coordination.md",
-    "NTU ROBO/kinematics/D-H Representation.md",
-    "NTU ROBO/kinematics/5. differential motion and statics.md",
-    "NTU ROBO/kinematics/4. Trajectory Planning.md",
     "NTU ROBO/ROBO",
     "NTU ROBO/mobile",
     "NTU ROBO/pictures",
     "NTU ROBO/kinematics",
-    "NTU ROBO/control",
-    "NTU ROBO",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
