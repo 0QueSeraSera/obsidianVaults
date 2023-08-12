@@ -1,5 +1,7 @@
 [[root_Navigation_Stack]]
 ****
+[[Lie Group]]
+[[Quaternions]]
 [[6 Non-linear Optimization]]
 [[7 Visual Odometry 1]]
 [[9 Backend1]]

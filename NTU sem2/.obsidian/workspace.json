@@ -11,22 +11,15 @@
             "id": "1d9ce56133b204d5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "69be597726455f7a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.2.7"
+                "file": "ROBO/kinematics/Lie Group.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ROBO/kinematics/Lie Group.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ROBO/kinematics/Lie Group.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ROBO/kinematics/Lie Group.md"
+              }
             }
           }
         ]
@@ -157,8 +154,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "69be597726455f7a",
+  "active": "1d9ce56133b204d5",
   "lastOpenFiles": [
+    "ROBO/kinematics/Lie Group.md",
     "MCS/MPC/MPC.md",
     "MCS/MPC/Incremental Input Form.md",
     "MCS/MPC/4 Integral Action.md",
@@ -188,7 +186,6 @@
     "GAML/GA/Chap4 Representation Mutation & Recombination.md",
     "GAML/GA/Selection.md",
     "GAML/GA/Chap5 Fitness, Selection, Population Management.md",
-    "GAML/GA/Chap6 EA Algorithms.md",
     "GAML/pictures/Pasted image 20230425145105.png",
     "GAML/pictures/Pasted image 20230425160113.png",
     "GAML/pictures/Pasted image 20230425160101.png",

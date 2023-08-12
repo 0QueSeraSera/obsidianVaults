@@ -1,5 +1,5 @@
 [[topic_LaserSLAM]]
-[[kinetics]]
+[[kinematics]]
 ****
 # motion modelling
 ## differentiate drive model

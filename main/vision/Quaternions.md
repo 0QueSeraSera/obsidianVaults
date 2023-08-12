@@ -1,6 +1,13 @@
 [[Techniques]]
 [[root_3D vision]]
+[[kinematics]]
 ****
+# Understanding quaternions with 3D rotation
+## complex number and rotation
+https://www.zhihu.com/search?type=content&q=%E5%9B%9B%E5%85%83%E6%95%B0
+![[Pasted image 20230812120332.png]]
+乘以一个复数时，**缩放**模长，**逆时针旋转**
+
 # Defination and Properties
 ## defination
 2 imaginary numbers:
@@ -58,5 +65,7 @@ This results in an additional contraint for rotation matrics:
 ![[Pasted image 20230312183352.png]]
 This sort of matrices forms a subgroup of O(3), which is SO(3)
 ![[Pasted image 20230312183505.png]]
+
+
 
 

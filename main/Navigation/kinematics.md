@@ -25,3 +25,5 @@ and combine:
 
 ### SE(n) Special Euclidean Group
 ![[Pasted image 20221211232246.png]]
+
+[[Quaternions]]

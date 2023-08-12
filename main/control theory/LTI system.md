@@ -1,3 +1,5 @@
+[[classical control]]
+****
 LTI system has limited operations:
 1. multiply by a constant
 2. integrate

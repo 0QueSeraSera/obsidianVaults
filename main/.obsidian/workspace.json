@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "control theory/LTI system.md",
+                "file": "vision/Quaternions.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dian",
+                "query": "kinetics",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -114,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "control theory/LTI system.md",
+                "file": "vision/Quaternions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "control theory/LTI system.md",
+                "file": "vision/Quaternions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "control theory/LTI system.md"
+                "file": "vision/Quaternions.md"
               }
             }
           }
@@ -177,46 +178,54 @@
   },
   "active": "93a7680e5865f974",
   "lastOpenFiles": [
-    "control theory/classical control.md",
-    "path planning/root_control_theory.md",
-    "control theory/Bode plot.md",
-    "control theory/appendix.md",
-    "Navigation/7 Visual Odometry 1.md",
-    "Navigation/topic_Visual_SLAM.md",
-    "Untitled",
-    "vision/SFM.md",
-    "Sensor Fusion/topic_Kalman Filter Special.md",
-    "Sensor Fusion/Particle Filter.md",
-    "Sensor Fusion/IMU.md",
-    "Sensor Fusion/EKF.md",
-    "Sensor Fusion/EE6221_KF.md",
-    "pictures/Pasted image 20230424115255.png",
-    "pictures/Pasted image 20230424152244.png",
-    "pictures/Pasted image 20230424151604.png",
-    "pictures/Pasted image 20230424151100.png",
-    "pictures/Pasted image 20230424150949.png",
-    "Nyquist plot.md",
-    "pictures/2 continuous features.md",
-    "pictures/Pasted image 20230424105729.png",
-    "pictures/Pasted image 20230423233155.png",
-    "pictures/Pasted image 20230424105602.png",
-    "pictures/Pasted image 20230424105443.png",
-    "pictures/Pasted image 20230423234104.png",
-    "Sensor Fusion/A robot localization example.md",
-    "Navigation/6 Non-linear Optimization.md",
-    "Navigation/topic_LaserSLAM.md",
-    "Navigation/MultiVariate Kalman Filter.md",
-    "Navigation/C Intro to Filtering.md",
+    "Pasted image 20230812120332.png",
+    "Navigation/kinematics.md",
     "Navigation/UnitA1 Motion Model.md",
-    "Sensor Fusion/UKF.md",
-    "Sensor Fusion/MSCKF.md",
-    "path planning/basic algorithms.md",
-    "Navigation/kinetics.md",
-    "vision/1_camera model.md",
-    "DL-Basics/classical framework.md",
+    "vision/Quaternions.md",
+    "Navigation/topic_Visual_SLAM.md",
+    "Navigation/Lie Group.md",
+    "Pasted image 20230812113001.png",
+    "Pasted image 20230812112915.png",
+    "Pasted image 20230812112811.png",
+    "Pasted image 20230812112706.png",
+    "Pasted image 20230812112602.png",
+    "Pasted image 20230812112404.png",
+    "Pasted image 20230812112312.png",
+    "Pasted image 20230812112207.png",
+    "Navigation/7 Visual Odometry 1.md",
+    "control theory/transfer function.md",
+    "NTU ROBO/ROBO/pictures/Pasted image 20230423204636.png",
+    "NTU ROBO/ROBO/pictures/Pasted image 20230423204211.png",
+    "NTU ROBO/ROBO/kinematics/Rotations and Translations.md",
+    "NTU ROBO/ROBO/mobile/Mobile Robot Kinematics.md",
+    "NTU ROBO/ROBO/kinematics/Link Coordination.md",
+    "NTU ROBO/ROBO/kinematics/5. differential motion and statics.md",
+    "NTU ROBO/ROBO/kinematics/D-H Representation.md",
+    "NTU ROBO/ROBO/kinematics/Lie Group.md",
+    "NTU ROBO/ROBO/kinematics/4. Trajectory Planning.md",
+    "NTU ROBO/ROBO/kinematics/3. Inverse Kinematics.md",
+    "NTU ROBO/ROBO/control/Position Control.md",
+    "NTU ROBO/ROBO/control/Robot Dynamic Model.md",
+    "NTU ROBO/ROBO/control/Force Control and Hybrid Control.md",
+    "NTU ROBO/ROBO/kinematics/2. Kinematics.md",
+    "NTU ROBO/ROBO/pictures",
+    "NTU ROBO/ROBO/mobile",
+    "NTU ROBO/ROBO/kinematics",
+    "NTU ROBO/ROBO/control",
+    "NTU ROBO/mobile/Mobile Robot Kinematics.md",
+    "NTU ROBO/kinematics/Rotations and Translations.md",
+    "NTU ROBO/kinematics/Link Coordination.md",
+    "NTU ROBO/kinematics/D-H Representation.md",
+    "NTU ROBO/kinematics/5. differential motion and statics.md",
+    "NTU ROBO/kinematics/4. Trajectory Planning.md",
+    "NTU ROBO/ROBO",
+    "NTU ROBO/mobile",
+    "NTU ROBO/pictures",
+    "NTU ROBO/kinematics",
+    "NTU ROBO/control",
+    "NTU ROBO",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "path planning/OMPL"
+    "Untitled.canvas"
   ]
 }
