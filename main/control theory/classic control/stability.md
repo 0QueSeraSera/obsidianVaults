@@ -1,4 +1,5 @@
-
+[[topic_classical control]]
+****
 adding feedback to the system will change the dynamics, 
 but can be turned into open-loop form
 

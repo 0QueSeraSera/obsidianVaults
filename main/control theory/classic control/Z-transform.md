@@ -1,4 +1,6 @@
-[[discrete_control]]
+[[topic_discrete_control]]
+[[topic_classical control]]
+****
 # 1. Intro & 2. basics
 for continuous signal x(t):
 `X(z) = Z[x(t)] = sum(k=0->inf)[x(kT)z^-k]`

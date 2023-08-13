@@ -1,6 +1,8 @@
+[[topic_classical control]]
+****
 g(t) / G(s)
 
-for [[LTI]] system, 
+for LTI system, 
 y(t) = u(t) * g(t)
 Y(s) = U(s) G(s) 
 **the advantage of using Laplace transform, to avoid convolution in time domain**

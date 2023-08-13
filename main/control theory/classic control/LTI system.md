@@ -1,4 +1,4 @@
-[[classical control]]
+[[topic_classical control]]
 ****
 LTI system has limited operations:
 1. multiply by a constant

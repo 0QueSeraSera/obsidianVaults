@@ -1,4 +1,4 @@
-[[discrete_control]]
+[[topic_discrete_control]]
 ****
 # setup
 ![[Pasted image 20221031222034.png]]

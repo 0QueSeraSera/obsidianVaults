@@ -1,4 +1,4 @@
-[[discrete_control]]
+[[topic_discrete_control]]
 ****
 # Impulse Sampling and Data Hold
 ## ADC model

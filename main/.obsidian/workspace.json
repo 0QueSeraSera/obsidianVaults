@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7df5b9a5cd9d99aa",
+        "id": "f217b7c759061d71",
         "type": "tabs",
         "children": [
           {
-            "id": "96709aba7f55978e",
+            "id": "fa767d3f1af0cc63",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "pictures/Pasted image 20230812174016.png"
+                "file": "Navigation/laser_slam/C Intro to Filtering.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -46,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kinetics",
+                "query": "推导",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -91,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pictures/Pasted image 20230812174016.png",
+                "file": "Navigation/laser_slam/C Intro to Filtering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pictures/Pasted image 20230812174016.png",
+                "file": "Navigation/laser_slam/C Intro to Filtering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pictures/Pasted image 20230812174016.png"
+                "file": "Navigation/laser_slam/C Intro to Filtering.md"
               }
             }
           }
@@ -152,53 +155,54 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ab63173f49ed3129",
+  "active": "fa767d3f1af0cc63",
   "lastOpenFiles": [
-    "Navigation/visual_slam/6 Non-linear Optimization.md",
-    "pictures/Pasted image 20230812182002.png",
-    "pictures/Pasted image 20230812181844.png",
-    "pictures/Pasted image 20230812181530.png",
-    "pictures/Pasted image 20230812181450.png",
-    "pictures/Pasted image 20230812181426.png",
-    "pictures/Pasted image 20230812181417.png",
-    "pictures/Pasted image 20230812174943.png",
-    "pictures/Pasted image 20230812174846.png",
-    "pictures/Pasted image 20230812174831.png",
-    "pictures/Pasted image 20230812174814.png",
-    "Navigation/Visual Inertial Odometry.md",
-    "Navigation/laser_slam/B Incorporate sensor data.md",
-    "Navigation/laser_slam/C Intro to Filtering.md",
-    "Navigation/laser_slam",
     "Navigation/visual_slam/9 Backend1.md",
-    "path planning/root_control_theory.md",
-    "Navigation/visual_slam/7 Visual Odometry 1.md",
-    "Navigation/RANSAC.md",
-    "Navigation/visual_slam",
-    "Navigation/MultiVariate Kalman Filter.md",
-    "Sensor Fusion/topic_Kalman Filter Special.md",
-    "Navigation/laser_slam/topic_LaserSLAM.md",
-    "Navigation/Techniques.md",
     "Navigation/visual_slam/topic_Visual_SLAM.md",
-    "Navigation/State Augmentation.md",
-    "Navigation/root_Navigation_Stack.md",
-    "Navigation/Lie Group.md",
-    "Navigation/kinematics.md",
-    "path planning/basic algorithms.md",
-    "path planning/Adaptively Informed Trees (AIT-star).md",
-    "path planning/2022 improved RRT-Connect.md",
-    "path planning/RRT.md",
-    "path planning/root_SBP.md",
-    "path planning/Informed-RRT-star.md",
-    "path planning/essay collections.md",
-    "path planning/Batch Informed Trees.md",
+    "Sensor Fusion/topic_Kalman Filter Special.md",
+    "Navigation/MultiVariate Kalman Filter.md",
+    "Sensor Fusion/A robot localization example.md",
+    "Navigation/laser_slam/C Intro to Filtering.md",
+    "Navigation/laser_slam/topic_LaserSLAM.md",
+    "pictures/Pasted image 20230813100253.png",
+    "pictures/Pasted image 20230813102255.png",
+    "pictures/Pasted image 20230813102152.png",
+    "pictures/Pasted image 20230813102140.png",
+    "pictures/Pasted image 20230813101858.png",
+    "pictures/Pasted image 20230813101602.png",
+    "pictures/Pasted image 20230813101256.png",
+    "pictures/Pasted image 20230813100722.png",
+    "control theory/classic control/transfer function.md",
+    "control theory/classic control/topic_classical control.md",
+    "control theory/classic control/Z-transform.md",
+    "control theory/classic control/stability.md",
+    "control theory/classic control/compensator design.md",
+    "control theory/classic control/Bode plot.md",
+    "control theory/classic control/Routh-Hurwitz.md",
+    "control theory/classic control/LTI system.md",
+    "control theory/discrete control/topic_discrete_control.md",
+    "control theory/discrete control/design of the discrete control system.md",
+    "control theory/discrete control/different types of controller.md",
+    "control theory/discrete control/Dierect Control Design.md",
+    "control theory/discrete control/Mapping between S-plane and Z-plane.md",
+    "control theory/discrete control/modeling digital system.md",
+    "control theory/discrete control/close-loop digital controller.md",
+    "control theory/analog controller to digital.md",
+    "control theory/4_unsupervised_learning.md",
+    "vision/4_stereo_geometry.md",
+    "control theory/scattered.md",
+    "control theory/discrete control",
+    "control theory/modern control",
+    "control theory/control bootcamp",
+    "control theory/classic control/Untitled",
+    "control theory/classic control",
+    "pictures/Pasted image 20230812174016.png",
+    "pictures/Pasted image 20230812182002.png",
+    "Navigation/laser_slam",
+    "Navigation/visual_slam",
     "NTU ROBO/ROBO/pictures",
     "NTU ROBO/ROBO/mobile",
     "NTU ROBO/ROBO/kinematics",
-    "NTU ROBO/ROBO/control",
-    "NTU ROBO/ROBO",
-    "NTU ROBO/mobile",
-    "NTU ROBO/pictures",
-    "NTU ROBO/kinematics",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
