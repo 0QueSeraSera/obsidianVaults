@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f217b7c759061d71",
+        "id": "1f6dc3d22e5b22c9",
         "type": "tabs",
         "children": [
           {
-            "id": "fa767d3f1af0cc63",
+            "id": "d08d864825c3c2f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Navigation/laser_slam/C Intro to Filtering.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "推导",
+                "query": "vision",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Navigation/laser_slam/C Intro to Filtering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Navigation/laser_slam/C Intro to Filtering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Navigation/laser_slam/C Intro to Filtering.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -155,15 +146,34 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "fa767d3f1af0cc63",
+  "active": "d08d864825c3c2f8",
   "lastOpenFiles": [
-    "Navigation/visual_slam/9 Backend1.md",
-    "Navigation/visual_slam/topic_Visual_SLAM.md",
-    "Sensor Fusion/topic_Kalman Filter Special.md",
-    "Navigation/MultiVariate Kalman Filter.md",
-    "Sensor Fusion/A robot localization example.md",
+    "path planning/topic_Bayes Theory.md",
+    "path planning/RRT-star-Smart.md",
+    "path planning/RRT-star.md",
+    "path planning/RRT-Connect.md",
+    "path planning/RRT.md",
+    "path planning/root_SBP.md",
+    "path planning/root_control_theory.md",
+    "path planning/essay collections.md",
+    "path planning/Adaptively Informed Trees (AIT-star).md",
+    "path planning/basic algorithms.md",
+    "path planning/Batch Informed Trees.md",
+    "path planning/collistion detection.md",
+    "vision/root_3D vision.md",
+    "vision/2_single_view_geometry.md",
+    "vision/1_camera model.md",
+    "NTU ROBO/kinematics/5. differential motion and statics.md",
+    "Sensor Fusion/EKF.md",
+    "control theory/analog controller to digital.md",
     "Navigation/laser_slam/C Intro to Filtering.md",
-    "Navigation/laser_slam/topic_LaserSLAM.md",
+    "control theory/modern control/7_optimal control.md",
+    "control theory/modern control/topic_modern control basics.md",
+    "control theory/control bootcamp/topic_control bootcamp.md",
+    "control theory/control bootcamp/LQR.md",
+    "control theory/control bootcamp/1_stability and eigenvalues.md",
+    "control theory/control bootcamp/0_Overview.md",
+    "control theory/discrete control/topic_discrete_control.md",
     "pictures/Pasted image 20230813100253.png",
     "pictures/Pasted image 20230813102255.png",
     "pictures/Pasted image 20230813102152.png",
@@ -172,25 +182,6 @@
     "pictures/Pasted image 20230813101602.png",
     "pictures/Pasted image 20230813101256.png",
     "pictures/Pasted image 20230813100722.png",
-    "control theory/classic control/transfer function.md",
-    "control theory/classic control/topic_classical control.md",
-    "control theory/classic control/Z-transform.md",
-    "control theory/classic control/stability.md",
-    "control theory/classic control/compensator design.md",
-    "control theory/classic control/Bode plot.md",
-    "control theory/classic control/Routh-Hurwitz.md",
-    "control theory/classic control/LTI system.md",
-    "control theory/discrete control/topic_discrete_control.md",
-    "control theory/discrete control/design of the discrete control system.md",
-    "control theory/discrete control/different types of controller.md",
-    "control theory/discrete control/Dierect Control Design.md",
-    "control theory/discrete control/Mapping between S-plane and Z-plane.md",
-    "control theory/discrete control/modeling digital system.md",
-    "control theory/discrete control/close-loop digital controller.md",
-    "control theory/analog controller to digital.md",
-    "control theory/4_unsupervised_learning.md",
-    "vision/4_stereo_geometry.md",
-    "control theory/scattered.md",
     "control theory/discrete control",
     "control theory/modern control",
     "control theory/control bootcamp",

@@ -38,7 +38,7 @@ rank(Wc) == n
 ```
 # observability
 #observability
-_ability to determine the initial state x(0) based on initial state x(0)_
+_ability to determine the initial state x(0) based on input and output_
 ![[Pasted image 20221123165542.png]]
 `rank(Wo) == n`
 # relationship between ctrb and obsv and transfer function
