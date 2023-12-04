@@ -11,8 +11,12 @@
             "id": "1d9ce56133b204d5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "MCS/MPC/3 Tuning.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MCS/MPC/3 Tuning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "MCS/MPC/3 Tuning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "MCS/MPC/3 Tuning.md"
+              }
             }
           }
         ]
@@ -148,21 +156,23 @@
   },
   "active": "1d9ce56133b204d5",
   "lastOpenFiles": [
-    "ROBO/kinematics/Lie Group.md",
-    "MCS/MPC/MPC.md",
     "MCS/MPC/Incremental Input Form.md",
     "MCS/MPC/4 Integral Action.md",
     "MCS/MPC/1 Basic Formulation.md",
     "MCS/MPC/3 Tuning.md",
+    "MCS/Process Control/Decentralized Control.md",
+    "MCS/Process Control/DSM.md",
+    "MCS/Process Control/Feedforward Control.md",
+    "MCS/Process Control/IMC.md",
+    "MCS/Process Control/Cascade Control.md",
+    "ROBO/kinematics/Lie Group.md",
+    "MCS/MPC/MPC.md",
     "MCS/pictures/Pasted image 20230501114327.png",
     "MCS/pictures/Pasted image 20230501114132.png",
     "MCS/Process Control/Relative Gain Array.md",
     "MCS/Process Control/Chap4.md",
     "MCS/Process Control/Multivariate Control Process.md",
     "MCS/Process Control/Chap2.md",
-    "MCS/Process Control/IMC.md",
-    "MCS/Process Control/DSM.md",
-    "MCS/Process Control/Decentralized Control.md",
     "ROBO/kinematics/Rotations and Translations.md",
     "ROBO/kinematics/Link Coordination.md",
     "ROBO/kinematics/2. Kinematics.md",
@@ -176,8 +186,6 @@
     "GAML/pictures/Pasted image 20230426111250.png",
     "GAML/GA/Representation--Permutaion.md",
     "GAML/GA/Chap4 Representation Mutation & Recombination.md",
-    "GAML/GA/Selection.md",
-    "GAML/GA/Chap5 Fitness, Selection, Population Management.md",
     "GAML/pictures/Pasted image 20230425145105.png",
     "GAML/pictures/Pasted image 20230425160113.png",
     "GAML/pictures/Pasted image 20230425160101.png",

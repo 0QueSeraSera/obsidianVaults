@@ -8,7 +8,7 @@ use the x_hat to feed the _controller_ **
 # full state estimation
 the full state estimator itself is a dynamical system
 input: u, y
-ouput: x_hat
+ouput: x_hatwww
 ```
 x_hat_dot = A·x_hat + B·u + K_f · (y - y_hat)
 y_hat = C · x_hat
